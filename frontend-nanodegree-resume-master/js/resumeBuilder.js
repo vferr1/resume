@@ -19,7 +19,7 @@ var work = {
       "position": "Temp",
       "employer": "Employer's Overload",
       "dates": "June - August 2016",
-      "location": "Eugene, OR",
+      "location": "Portland, OR", // 
       "description": "working various manual labor positions while completeing Udacity nanodegree",
       "start": "June 2016"
     },
@@ -35,7 +35,7 @@ var work = {
       "position": "Freeform Radio Disc Jockey",
       "employer": "KWVA Eugene",
       "dates": "2009-2011",
-      "location": "EMU, University of Oregon, Eugene, OR",
+      "location": "Eugene, OR",
       "description": "Produced and hosted weekly Rock n' Roll Radio Show",
       "start": "2009"
     },
@@ -43,7 +43,7 @@ var work = {
       "position": "Bagger/Customer Service",
       "employer": "Vicente Foods",
       "dates": "2008-2009",
-      "location": "Brentwood, Los Angeles, CA",
+      "location": "Los Angeles, CA",
       "description": "Daily interaction with variety of people, maintain positive customer experience",
       "start": "Summer 2008"
     }
@@ -63,7 +63,7 @@ var education = {
       "name": "Udacity.com",
       "degree": "Front-End Web Developer Nanodegree",
       "dates": "Jan. 2016-Present",
-      "location": "local",
+      "location": "Eugene, OR",
       "Major": "Front-End Web Dev"
     }
   ],
